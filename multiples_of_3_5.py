@@ -14,7 +14,7 @@ def multiples_of_three_and_five(num):
             added_one += i
         
         if i % 5 == 0:
-            dded_two += i
+            added_two += i
         
     print added_one + added_two   
 
